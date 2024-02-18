@@ -2,6 +2,7 @@
   "name": "media_dynox",
   "version": "0.1.0",
   "private": true,
+  "homepage": "https://priyank2311.github.io/media_dynox/",
   "dependencies": {
     "@testing-library/jest-dom": "^5.17.0",
     "@testing-library/react": "^13.4.0",
