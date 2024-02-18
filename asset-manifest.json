@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/media_dynox/static/css/main.915b4154.css",
+    "main.js": "/media_dynox/static/js/main.dca18ff8.js",
+    "static/js/453.e4f19d77.chunk.js": "/media_dynox/static/js/453.e4f19d77.chunk.js",
+    "static/media/dedicated.png": "/media_dynox/static/media/dedicated.fcc3bc7d4ede32c84617.png",
+    "static/media/mainImg2.png": "/media_dynox/static/media/mainImg2.20fc9ae93498b7acc629.png",
+    "static/media/mainImg.png": "/media_dynox/static/media/mainImg.047fe4d4bf346485052f.png",
+    "static/media/connect.png": "/media_dynox/static/media/connect.f1ac910634c843db9238.png",
+    "static/media/Container.png": "/media_dynox/static/media/Container.fa61860b33b71da10480.png",
+    "static/media/img2.png": "/media_dynox/static/media/img2.e0380193575bb29d8963.png",
+    "static/media/img1.png": "/media_dynox/static/media/img1.ebf32a41111c6335eb5c.png",
+    "static/media/user2.png": "/media_dynox/static/media/user2.ef89d1feacd0d183b73a.png",
+    "static/media/user1.png": "/media_dynox/static/media/user1.efce18a93a9eff2f04cc.png",
+    "index.html": "/media_dynox/index.html",
+    "main.915b4154.css.map": "/media_dynox/static/css/main.915b4154.css.map",
+    "main.dca18ff8.js.map": "/media_dynox/static/js/main.dca18ff8.js.map",
+    "453.e4f19d77.chunk.js.map": "/media_dynox/static/js/453.e4f19d77.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.915b4154.css",
+    "static/js/main.dca18ff8.js"
+  ]
+}
